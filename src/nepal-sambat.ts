@@ -606,7 +606,7 @@ export function bsToNepalSambat(bsDate: string): NepalSambatDate {
   const nsYear = jdToGregorianYear(kNM) - 879;
 
   const formatted = englishToNepali(
-    `NS ${nsYear} ${month} ${tithi} (${tithiNumber})`,
+    `ने.सं. ${nsYear} ${month} ${tithi}`,
   );
 
   return {
