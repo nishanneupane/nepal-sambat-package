@@ -11,7 +11,7 @@ describe('Nepal Sambat conversion', () => {
       month: 'चौलागा',
       tithi: 'त्रयोदशी',
       tithiNumber: 13,
-      formatted: 'NS ११४६ चौलागा त्रयोदशी (१३)',
+      formatted: 'ने.सं. ११४६ चौलागा त्रयोदशी',
     });
   });
 
